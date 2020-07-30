@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/paisesJS/static/css/main.5f361e03.chunk.css",
+    "main.js": "/paisesJS/static/js/main.a2dc9876.chunk.js",
+    "main.js.map": "/paisesJS/static/js/main.a2dc9876.chunk.js.map",
+    "runtime-main.js": "/paisesJS/static/js/runtime-main.f42dcf54.js",
+    "runtime-main.js.map": "/paisesJS/static/js/runtime-main.f42dcf54.js.map",
+    "static/js/2.156ef906.chunk.js": "/paisesJS/static/js/2.156ef906.chunk.js",
+    "static/js/2.156ef906.chunk.js.map": "/paisesJS/static/js/2.156ef906.chunk.js.map",
+    "index.html": "/paisesJS/index.html",
+    "precache-manifest.c1642a3c0b074965a4f5cfdd294c61c5.js": "/paisesJS/precache-manifest.c1642a3c0b074965a4f5cfdd294c61c5.js",
+    "service-worker.js": "/paisesJS/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/paisesJS/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.156ef906.chunk.js.LICENSE.txt": "/paisesJS/static/js/2.156ef906.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f42dcf54.js",
+    "static/js/2.156ef906.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a2dc9876.chunk.js"
+  ]
+}
